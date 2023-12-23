@@ -1,1 +1,1 @@
-HTML ve css kullanarak basi bir tür card yapısı oluşturdum. 
+HTML ve css kullanarak basit bir tür card yapısı oluşturdum. 
